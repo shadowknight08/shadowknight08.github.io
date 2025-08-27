@@ -1,0 +1,121 @@
+IMAGE INVENTORY - PLAIN HTML PROJECT
+=====================================
+
+SITE IMAGES (images/site/)
+--------------------------
+- about.jpg (56KB)
+- author-1.jpg (15KB)
+- client-01.png (30KB)
+- client-02.png (7.4KB)
+- client-03.png (16KB)
+- client-04.png (17KB)
+- client-05.png (8.5KB)
+- client-06.png (18KB)
+- client-07.png (18KB)
+- fun-01.svg (2.2KB)
+- fun-02.svg (2.9KB)
+- fun-03.svg (1.7KB)
+- fun-04.svg (1.8KB)
+- icon-check.svg (347B)
+- icon-location.svg (1.6KB)
+- icon-mail.svg (2.4KB)
+- icon-phone.svg (1.8KB)
+- process-01.svg (2.1KB)
+- process-02.svg (2.1KB)
+- process-03.svg (1.8KB)
+- process-04.svg (2.3KB)
+- process-05.svg (1.5KB)
+- process-06.svg (1.7KB)
+- service-01.svg (2.8KB)
+- service-02.svg (2.1KB)
+- service-03.svg (2.8KB)
+- service-04.svg (2.9KB)
+- testo-01.jpg (15KB)
+- testo-02.jpg (15KB)
+- testo-03.jpg (15KB)
+- testo-04.jpg (15KB)
+
+PORTFOLIO IMAGES (images/portfolio/)
+------------------------------------
+- 01.jpg (18KB)
+- 02.jpg (18KB)
+- 03.jpg (18KB)
+- 04.jpg (18KB)
+- 05.jpg (18KB)
+- 06.jpg (18KB)
+- 07.jpg (18KB)
+- 08.jpg (18KB)
+- 09.jpg (18KB)
+- lightbox-01.jpg (32KB)
+- lightbox-02.jpg (26KB)
+- lightbox-03.jpg (32KB)
+- lightbox-04.jpg (26KB)
+
+PORTFOLIO SINGLE IMAGES (images/portfolio/single/)
+--------------------------------------------------
+- 01.jpg (58KB)
+- 02.jpg (58KB)
+- 03.jpg (58KB)
+- 04.jpg (58KB)
+- 05.jpg (58KB)
+- 06.jpg (58KB)
+- 07.jpg (58KB)
+- 08.jpg (58KB)
+- 09.jpg (58KB)
+
+HOME IMAGES (images/home/)
+--------------------------
+- cover.jpg (58KB)
+- cover2.jpg (58KB)
+- cover3.jpg (58KB)
+- icon.svg (2.8KB)
+- icon2.svg (10KB)
+- icon3.svg (5.7KB)
+- icon-bg.svg (5.1KB)
+- icon-bg2.svg (5.2KB)
+- icon-bg3.svg (2.8KB)
+
+BLOG IMAGES (images/blog/)
+--------------------------
+- 01.jpg (27KB)
+- 02.jpg (27KB)
+- 03.jpg (27KB)
+- 04.jpg (27KB)
+- 05.jpg (27KB)
+- 06.jpg (33KB)
+- 07.jpg (33KB)
+- 08.jpg (27KB)
+- 09.jpg (27KB)
+- banner.jpg (288KB)
+- p1.jpg (16KB)
+- p2.jpg (16KB)
+- p3.jpg (16KB)
+- p4.jpg (16KB)
+
+ICON IMAGES (images/ico/)
+-------------------------
+- apple-touch-icon.png (2.3KB)
+- favicon.ico (1.1KB)
+
+BACKGROUND IMAGES (images/bckg/)
+--------------------------------
+- close.png (550B)
+- lines.png (26KB)
+- mfp-default-skin.svg (1.5KB)
+
+FONT ICONS (css/fonts/fontello/)
+--------------------------------
+- fontello.eot
+- fontello.svg
+- fontello.ttf
+- fontello.woff
+- fontello.woff2
+
+TOTAL IMAGE COUNT: 67+ images
+TOTAL SIZE: Approximately 1.5MB+ (excluding font files)
+
+NOTES:
+- SVG files are vector graphics (scalable)
+- JPG/PNG files are raster images
+- Font files are icon fonts for the fontello icon system
+- All images are organized by their functional purpose in the website
