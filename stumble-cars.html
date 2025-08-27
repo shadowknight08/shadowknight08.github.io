@@ -28,6 +28,26 @@
         <link rel="stylesheet" type="text/css" href="css/fonts/fontello/css/fontello.css">
         <link rel="stylesheet" type="text/css" href="css/main.css">
         <link rel="stylesheet" type="text/css" href="css/768.css">
+        
+        <style>
+            html {
+                scroll-behavior: smooth;
+            }
+            .button.secondary {
+                background: #666;
+                color: white;
+                padding: 12px 24px;
+                text-decoration: none;
+                border-radius: 4px;
+                display: inline-block;
+                transition: background 0.3s ease;
+            }
+            .button.secondary:hover {
+                background: #555;
+                color: white;
+                text-decoration: none;
+            }
+        </style>
 
         
         <!-- INITIAL SCRIPTS -->
@@ -187,7 +207,7 @@
 
                                         <!-- PORTFOLIO-NAV -->
                                         <div class="portfolio-nav">
-                                            <span class="prev ajax"><a href="portfolio-item-01.html">Prev</a></span>
+                                            <span class="prev"><a href="portfolio.html">Portfolio</a></span>
                                             <span class="back"><a href="portfolio.html">Close</a></span>
                                             <span class="next ajax"><a href="portfolio-item-03.html">Next</a></span>
                                         </div>
@@ -217,14 +237,15 @@
                                             </div>
 
                                             <p>
-                                                <a href="https://github.com/anshuljain/stumble-cars" target="_blank" class="button primary">VIEW PROJECT</a>
+                                                <a href="https://play.google.com/store/apps/details?id=com.terrabyte.terra&hl=en_IN" target="_blank" class="button primary">VIEW PROJECT</a>
+                                                <a href="#game-trailer" class="button secondary" style="margin-left: 10px;">WATCH TRAILER</a>
                                             </p>
 
                                         </div>
                                         <!-- .portfolio-desc -->
 
                                         <!-- PORTFOLIO VIDEOS -->
-                                        <div class="portfolio-videos">
+                                        <div class="portfolio-videos" id="game-trailer">
                                             <h3>Game Development Showcase</h3>
                                             
                                             <div class="row">
