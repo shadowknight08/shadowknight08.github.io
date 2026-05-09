@@ -77,8 +77,8 @@ I am **Anshul Jain**, a passionate Unity Game Developer based in Bangalore, Karn
 - **Location**: Bangalore, Karnataka, India
 - **Email**: anshuljainofficial@gmail.com
 - **Phone**: +91 9024710379
-- **LinkedIn**: [linkedin.com/in/anshul](https://linkedin.com/in/anshul)
-- **GitHub**: [github.com/anshuljain](https://github.com/anshuljain)
+- **LinkedIn**: [linkedin.com/in/anshul-jain-b8a098209](https://www.linkedin.com/in/anshul-jain-b8a098209/)
+- **GitHub**: [github.com/shadowknight08](https://github.com/shadowknight08)
 
 ## 🎯 What I Offer
 
